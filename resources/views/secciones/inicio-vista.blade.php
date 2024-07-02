@@ -3,6 +3,13 @@
     <div class="MAS-BannerImg GBborderWhite"></div>
 </div>
 
+<div class="">
+    <div class="PI-FormatoInfo">
+        <div class=""></div>
+        <div class=""></div>
+    </div>
+</div>
+
 {{-- @include('main_view.card_proyect') --}}
 {{-- @include('NewsEvents')    --}}
 
